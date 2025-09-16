@@ -1,4 +1,4 @@
-# pynorm
+# pynorm-sdk
 
 A modern, async Python SDK for the RxNorm API that provides comprehensive access to drug information and terminology.
 
@@ -17,7 +17,7 @@ https://lhncbc.nlm.nih.gov/RxNav/APIs/RxNormAPIs.html
 ## Installation
 
 ```bash
-pip install pynorm
+pip install pynorm-sdk
 ```
 
 ## Quick Start
