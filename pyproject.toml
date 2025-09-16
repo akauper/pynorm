@@ -1,5 +1,5 @@
 [project]
-name = "py-norm"
+name = "pynorm"
 version = "0.1.0"
 description = "A modern, async Python SDK for the RxNorm API that provides comprehensive access to drug information and terminology"
 readme = "README.md"
@@ -31,10 +31,10 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/akauper/py-norm"
-Repository = "https://github.com/akauper/py-norm"
-"Bug Tracker" = "https://github.com/akauper/py-norm/issues"
-Documentation = "https://github.com/akauper/py-norm#readme"
+Homepage = "https://github.com/akauper/pynorm"
+Repository = "https://github.com/akauper/pynorm"
+"Bug Tracker" = "https://github.com/akauper/pynorm/issues"
+Documentation = "https://github.com/akauper/pynorm#readme"
 
 [dependency-groups]
 dev = [
